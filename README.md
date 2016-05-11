@@ -13,6 +13,48 @@ You don't need to search for the artist name or album art on google, this source
 
 3 - Install and open it
 
-4 - After you opened it, close it and then go to %appdata%\Roaming\Mp3tag\data\
+4 - Paste the ***source*** and ***actions*** folder to ***%appdata%\Roaming\Mp3tag\data\***
 
-5 - Paste the source and actions folder
+5 - Open the program, from now on, i'll explain with screenshots.
+
+# Using the Source
+
+So, let's see how it works right?
+
+I have the _Cry Baby album from Melanie Martinez_ here to use as example (http://i.imgur.com/Uc5Zow2.png), as you can see on the screenshots, there are no tags on it (http://i.imgur.com/NzTaCc8.png), so, let's add them automatically
+
+Click on ***Tag Sources*** (http://i.imgur.com/znY5NDV.png)
+
+Move you mouse to ***iTunes*** (http://i.imgur.com/ZxG9dLO.png)
+
+Select any Country (in this case i'll use USA) (http://i.imgur.com/F9Fglcp.png)
+
+On the box (http://i.imgur.com/UOWggFk.png), put the ***Artist name*** and the ***Album name***
+
+On the ***Search Results***, choose one on the search results, in this case, we'll choose the first one.
+
+There we are, the tag information (http://i.imgur.com/bCJXbyE.png), on the right side (http://i.imgur.com/nnDuUdu.png) you'll need to allign with the left side (http://i.imgur.com/NCMvHuN.png), after you did the allignment, click OK.
+
+***Now the album is fully tagged*** (http://i.imgur.com/yXkLPvH.png) (http://i.imgur.com/lbikgiq.png)
+
+# Extras
+
+If your music is with strange names like [blahblahblahmp3.com] or anything else (http://i.imgur.com/4XPYWI3.png), i'll show you how to 'fix' it
+
+Select the music then click the ***Tag - Filename*** button (http://i.imgur.com/3aiHVIy.png)
+
+On the box (http://i.imgur.com/TuIIntI.png) put ***%track% - %title*** then click ***OK***.
+
+***Done.*** (http://i.imgur.com/nEOUTpO.png)
+
+# Issues
+
+***None for now.***
+
+# Disclaimer 
+
+Don't like it? Don't use it. ( ͡° ͜ʖ ͡°)
+
+
+
+
