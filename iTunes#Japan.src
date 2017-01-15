@@ -11,8 +11,8 @@
 ########################################################
 [Name]=iTunes
 [BasedOn]=https://itunes.apple.com
-[IndexUrl]=https://itunes.apple.com/search?country=JP&entity=album&term=%s
-[AlbumUrl]=https://itunes.apple.com/lookup?country=JP&entity=song&limit=200&id=
+[IndexUrl]=https://itunes.apple.com/search?country=JP&entity=album&l=jp&term=%s
+[AlbumUrl]=https://itunes.apple.com/lookup?country=JP&entity=song&l=jp&limit=200&id=
 [WordSeperator]=+
 [IndexFormat]=%_preview%|%_url%|%Artist%|%Album%|%Year%|%Tracks%|%Type%|%Copyright%|
 [SearchBy]=%artist% %album%
@@ -27,7 +27,7 @@ findline "wrapperType\""
 do
 	joinuntil "}"
               replace "\\\"" "&quot;"
-	      replace "?uo=4" ""	  
+	      replace "?uo=4" ""
 
 	# PREVIEW
 	sayregexp "(?<=\"collectionViewUrl\":\").+?(?=\")" ", " "}"
@@ -159,11 +159,11 @@ do
 	outputto "GENRE"
 	sayregexp "(?<=\"primaryGenreName\":\").+?(?=\")" ", " "}"
 	say "|"
-	
+
 	outputto "_LENGTH"
 	sayregexp "(?<=\"trackTimeMillis\":)\d+?(?=\D)" ", " "}"
 	say "|"
-	
+
 	OutputTo "DISCNUMBER"
 	FindLine "\"discNumber\":"
 	FindInLine "\"discNumber\":"
