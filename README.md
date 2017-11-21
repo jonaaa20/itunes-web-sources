@@ -51,7 +51,7 @@ On the box (http://i.imgur.com/TuIIntI.png) put ***%track% - %title*** then clic
 
 # Issues
 
-***Seems that pre-order albums doesn't work properly...***
+***Please report any issues with my script.***
 
 # Disclaimer 
 
