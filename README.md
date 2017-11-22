@@ -49,6 +49,10 @@ Select the music then click the ***Tag - Filename*** [button](http://i.imgur.com
 
 [ ***Done.*** ](http://i.imgur.com/nEOUTpO.png)
 
+# Actions
+
+There's a folder names "Extras" when you download my script, that can be used to add two flags: Gapless and Compilation, should be useful for some users, move the two .mta files to **%appdata\Mp3tag\data\actions** and you can use it [here](https://i.imgur.com/jXmmtQz.png).
+
 # Issues
 
 ***Please report any [issues](https://github.com/jonaaa20/itunes-web-sources/issues) with my script.***
