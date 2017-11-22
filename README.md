@@ -9,9 +9,9 @@ You don't need to search for the artist name or album art on google, this source
 
 1 - Download MP3Tag (http://www.mp3tag.de/en/download.html)
 
-2 - Download my Source (click on ***Download ZIP***)
+2 - Download my Source (go to ***Releases***)
 
-3 - Install and open it
+3 - Install the MP3Tag and open it
 
 4 - Copy the the ***.src*** files to ***%appdata%\roaming\mp3tag\data\sources*** and ***.mta*** to ***%appdata%\roaming\mp3tag\data\actions***
 
