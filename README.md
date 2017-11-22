@@ -7,7 +7,7 @@ You don't need to search for the artist name or album art on google, this source
 
 # Instructions
 
-1 - Download MP3Tag (http://www.mp3tag.de/en/download.html)
+1 - Download [MP3Tag](http://www.mp3tag.de/en/download.html)
 
 2 - Download my Source (go to ***Releases***)
 
