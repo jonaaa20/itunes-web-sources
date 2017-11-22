@@ -37,7 +37,7 @@ There we are, the tag information (http://i.imgur.com/bCJXbyE.png), on the right
 
 ***Now the album is fully tagged*** (http://i.imgur.com/yXkLPvH.png) (http://i.imgur.com/lbikgiq.png)
 
-***HEY! THE DEFAULT SIZE OF THE COVER IS 600x600! YOU CAN CHANGE IT BY YOURSELF ON "COVERURL" INSIDE THE SCRIPT!!!***
+***HEY! THE DEFAULT SIZE OF THE COVER IS THE HIGHEST! YOU CAN CHANGE IT BY YOURSELF ON "COVERURL" INSIDE THE SCRIPT!!!***
 
 # Extras
 
