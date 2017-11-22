@@ -47,7 +47,7 @@ Select the music then click the ***Tag - Filename*** [button](http://i.imgur.com
 
 [On the box](http://i.imgur.com/TuIIntI.png) put ***%track% - %title*** then click ***OK***.
 
-[***Done.***](http://i.imgur.com/nEOUTpO.png)
+[ ***Done.*** ](http://i.imgur.com/nEOUTpO.png)
 
 # Issues
 
