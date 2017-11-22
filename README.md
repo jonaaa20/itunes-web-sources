@@ -21,37 +21,37 @@ You don't need to search for the artist name or album art on google, this source
 
 So, let's see how it works right?
 
-I have the _Cry Baby album from Melanie Martinez_ here to use as example (http://i.imgur.com/Uc5Zow2.png), as you can see on the screenshots, there are no tags on it (http://i.imgur.com/NzTaCc8.png), so, let's add them automatically
+I have the _Cry Baby album from Melanie Martinez_ here to use as [example](http://i.imgur.com/Uc5Zow2.png), as you can see on the screenshots, [there are no tags on it](http://i.imgur.com/NzTaCc8.png), so, let's add them automatically
 
-Click on ***Tag Sources*** (http://i.imgur.com/znY5NDV.png)
+Click on [***Tag Sources***](http://i.imgur.com/znY5NDV.png)
 
-Move you mouse to ***iTunes*** (http://i.imgur.com/ZxG9dLO.png)
+Move you mouse to [***iTunes***](http://i.imgur.com/ZxG9dLO.png)
 
-Select any Country (in this case i'll use USA) (http://i.imgur.com/F9Fglcp.png)
+[Select any Country (in this case i'll use USA)](http://i.imgur.com/F9Fglcp.png)
 
-On the box (http://i.imgur.com/UOWggFk.png), put the ***Artist name*** and the ***Album name***
+[On the box](http://i.imgur.com/UOWggFk.png), put the ***Artist name*** and the ***Album name***
 
 On the ***Search Results***, choose one on the search results, in this case, we'll choose the first one.
 
-There we are, the tag information (http://i.imgur.com/bCJXbyE.png), on the right side (http://i.imgur.com/nnDuUdu.png) you'll need to allign with the left side (http://i.imgur.com/NCMvHuN.png), after you did the allignment, click OK.
+There we are, [the tag information](http://i.imgur.com/bCJXbyE.png), [on the right side](http://i.imgur.com/nnDuUdu.png) you'll need to [allign with the left side](http://i.imgur.com/NCMvHuN.png), after you did the allignment, click OK.
 
-***Now the album is fully tagged*** (http://i.imgur.com/yXkLPvH.png) (http://i.imgur.com/lbikgiq.png)
+[***Now the album is fully tagged***](http://i.imgur.com/lbikgiq.png)
 
 ***HEY! THE DEFAULT SIZE OF THE COVER IS THE HIGHEST! YOU CAN CHANGE IT BY YOURSELF ON "COVERURL" INSIDE THE SCRIPT!!!***
 
 # Extras
 
-If your music is with strange names like [blahblahblahmp3.com] or anything else (http://i.imgur.com/4XPYWI3.png), i'll show you how to 'fix' it
+If your music is with strange names like [blahblahblahmp3.com] or [anything else](http://i.imgur.com/4XPYWI3.png), i'll show you how to 'fix' it
 
-Select the music then click the ***Tag - Filename*** button (http://i.imgur.com/3aiHVIy.png)
+Select the music then click the ***Tag - Filename*** [button](http://i.imgur.com/3aiHVIy.png)
 
-On the box (http://i.imgur.com/TuIIntI.png) put ***%track% - %title*** then click ***OK***.
+[On the box](http://i.imgur.com/TuIIntI.png) put ***%track% - %title*** then click ***OK***.
 
-***Done.*** (http://i.imgur.com/nEOUTpO.png)
+[***Done.***](http://i.imgur.com/nEOUTpO.png)
 
 # Issues
 
-***Please report any issues with my script.***
+***Please report any [issues](https://github.com/jonaaa20/itunes-web-sources/issues) with my script.***
 
 # Disclaimer 
 
