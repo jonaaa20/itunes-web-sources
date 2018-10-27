@@ -57,6 +57,8 @@ There's a folder names "Extras" when you download my script, that can be used to
 
 ***Please report any [issues](https://github.com/jonaaa20/itunes-web-sources/issues) with my script.***
 
+**BEFORE CREATING ANY NEW ISSUES, PLEASE CHECK IF YOU'RE USING THE LATEST VERSION!**
+
 # Disclaimer 
 
 Don't like it? Don't use it. ( ͡° ͜ʖ ͡°)
