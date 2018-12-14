@@ -13,7 +13,7 @@ You don't need to search for the artist name or album art on google, this source
 
 3 - Install the MP3Tag and open it
 
-4 - Copy the the ***.src*** files to ***%appdata%\roaming\mp3tag\data\sources*** and ***.mta*** to ***%appdata%\roaming\mp3tag\data\actions***
+4 - Copy the the ***.src*** files to ***%appdata%\mp3tag\data\sources*** and ***.mta*** to ***%appdata%\mp3tag\data\actions***
 
 5 - Open the program, from now on, i'll explain with screenshots.
 
